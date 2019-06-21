@@ -1,0 +1,45 @@
+.header{
+    background: #29487d;
+    color: white;
+}
+body{
+    margin: 0;
+}
+p{
+    margin : 0;
+}
+.container{
+    width: 30%;
+    margin: auto;
+    /* display: flex; */
+}
+#fb{
+    font-weight: bold;
+    font-size: 2.5rem;
+    margin-top: 8px;
+}
+.aHalfWiidht{
+    width: 50%;
+}
+.wrapLogo{
+    width: 50%;
+}
+.wrapSignIn{
+    display : flex;
+}
+.flex-colum{
+    flex-direction: column;
+}
+.d-flex{
+    display: flex;
+}
+.wrapEmail{
+    margin: 0 8px;
+}
+.wrapPassword{
+    margin: 0 8px;
+}
+.wrapLogin{
+    margin : 0 8px;
+    justify-content: center;
+}
